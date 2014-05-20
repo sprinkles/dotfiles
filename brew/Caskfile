@@ -1,0 +1,8 @@
+cask install caffeine
+cask install cheatsheet
+cask install flux
+#cask install mamp
+#cask install opera
+cask install slate
+cask install transmission
+cask install vlc
