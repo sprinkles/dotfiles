@@ -41,6 +41,11 @@ brew 'tree'
 brew 'wget', args: ['with-iri', 'with-debug']
 brew 'z'
 
+# Ruby
+brew 'rbenv'
+brew 'ruby-build'
+brew 'rbenv-gem-rehash'
+
 # Pythons
 brew 'python'
 brew 'python3'
